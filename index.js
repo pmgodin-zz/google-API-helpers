@@ -1,0 +1,1 @@
+exports.FT = require("./lib/ft").FT; //Fusion Table
