@@ -4,7 +4,7 @@
   Just to help you interact with your prefered Google API's.
   
   ************************************
-  I surely do not suggest you to us this suite at this stage!
+  I surely do not suggest you to use this suite at this stage!
   ************************************
   
   by Pierre-Michel Morais-Godin,
