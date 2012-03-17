@@ -1,2 +1,2 @@
-exports.ggOAuth = require("./lib/oauth").ggOAuth; //OAuth sequence
+exports.ggOAuth = require("./lib/oauth"); //OAuth sequence
 exports.FT = require("./lib/ft"); //Fusion Table
